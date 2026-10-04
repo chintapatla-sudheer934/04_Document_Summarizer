@@ -1,0 +1,1 @@
+# AI-Based Automatic Document Summarizer\n\nRun `streamlit run app.py`. Works best with text-based PDFs; scanned PDFs need OCR. Long documents are capped in this demo.\n
